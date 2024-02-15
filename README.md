@@ -7,6 +7,6 @@ Para estabelecer a comunicação entre python e o banco de dados mysql, iremos u
 <a href="https://pypi.org/project/mysql-connector-python/"> https://pypi.org/project/mysql-connector-python/ </a>
 
 ### Comando para instalar o drive
-'''python
+```python
     python -m pip install mysql-connector-python
-'''
+```
