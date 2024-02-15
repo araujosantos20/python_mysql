@@ -8,5 +8,5 @@ Para estabelecer a comunicação entre python e o banco de dados mysql, iremos u
 
 ### Comando para instalar o drive
 '''python
-    pip install mysql-connector-python
+    python -m pip install mysql-connector-python
 '''
